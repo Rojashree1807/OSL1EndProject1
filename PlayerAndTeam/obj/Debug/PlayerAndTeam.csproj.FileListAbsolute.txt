@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project1\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.exe.config
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project1\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.exe
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project1\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.pdb
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project1\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project1\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project1\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.exe
+C:\Users\rojar\OneDrive\Desktop\Simpli learn\OSL1\End Project1\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.pdb
